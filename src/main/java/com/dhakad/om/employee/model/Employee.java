@@ -13,6 +13,6 @@ public class Employee {
     @GeneratedValue
     private int id;
     private String name;
-    private int phoneNumber;
     private String passportNumber;
+    private int phone;
 }
